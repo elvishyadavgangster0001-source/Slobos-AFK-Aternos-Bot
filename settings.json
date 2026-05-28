@@ -1,13 +1,13 @@
 {
   "name": "AFK Bot",
   "bot-account": {
-    "username": "Slobot00",
+    "username": "BOT",
     "password": "",
     "type": "offline"
   },
   "server": {
-    "ip": "ShakuniMamaSmp.aternos.me",
-    "port": 22798,
+    "ip": "pookienatorking.aternos.me:27640",
+    "port": 27640,
     "version": "1.21.11",
     "try-creative": false
   },
